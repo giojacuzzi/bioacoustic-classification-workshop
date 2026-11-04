@@ -11,7 +11,7 @@ Materials for a hands-on workshop demonstrating the bioacoustic classification f
 - [Raven Annotate](https://www.ravensoundsoftware.com/software/raven-workbench/raven-annotate/) or [Raven Lite](https://www.ravensoundsoftware.com/software/raven-lite/) software
 - [BirdNET-Analyzer GUI](https://birdnet.cornell.edu/analyzer/) software
 - [RStudio Desktop](https://docs.posit.co/ide/user/download.html) programming environment
-- [Workshop materials](https://github.com/giojacuzzi/bioacoustic-classification-workshop) (i.e., this repository)
+- [Workshop materials](https://github.com/giojacuzzi/bioacoustic-classification-workshop/releases) (i.e., this repository and accompanying release assets)
 
 ## Contents
 
